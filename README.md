@@ -212,8 +212,5 @@ expertise_level = {
 
 ---
 
-## بعد از ذخیره روی GitHub:
-
-برو ببین پروفایلت:
 ```
 https://github.com/ali-pornouri
