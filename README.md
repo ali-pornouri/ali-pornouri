@@ -14,7 +14,7 @@
 
 ## 🧠 About Me
 
-🤖 Building **RAG & AI Agent systems** with LangChain, Groq & Ollama
+🤖 Building **RAG & AI Agent systems** with LangChain, LLM & Ollama
 
 🛡️ Specializing in **Network Security & Ethical Hacking**
 
@@ -33,7 +33,7 @@
 
 ## 🧠 درباره من
 
-🤖 ساخت **سیستم‌های RAG و AI Agent** با LangChain و Groq
+🤖 ساخت **سیستم‌های RAG و AI Agent** با LangChain و LLM
 
 🛡️ متخصص در **امنیت شبکه و تست نفوذ اخلاقی**
 
