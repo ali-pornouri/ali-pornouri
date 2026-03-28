@@ -1,7 +1,6 @@
 <div align="center">
 
 # Hi, I'm Ali Pornouri 👋
-# سلام! من علی پورنوری هستم
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=750&lines=AI+Infrastructure+Engineer;Applied+AI+%26+RAG+Systems+Builder;Network+Security+%26+Penetration+Tester;Python+Developer+%7C+LLM+Specialist;Privacy-Preserving+AI+Deployment;Always+Building+%7C+Always+Learning!" alt="Typing SVG" />
 
